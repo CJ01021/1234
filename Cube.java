@@ -2,7 +2,6 @@ package xxx;
 
 public class Cube {
 	private double length;
-	private int width;
 	
 	public Cube() {
 		
