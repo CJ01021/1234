@@ -1,8 +1,10 @@
 package xxx;
 
 public class Cube {
-	private double aaaa;
-	private int high;
+
+	private int length;
+	private double high;
+
 	public Cube() {
 		
 	}

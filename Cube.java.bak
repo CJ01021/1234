@@ -1,8 +1,13 @@
 package xxx;
 
 public class Cube {
-	private double length;
+<<<<<<< HEAD
+	private double aaaa;
 	private int high;
+=======
+	private int length;
+	private double high;
+>>>>>>> newbranch
 	public Cube() {
 		
 	}
